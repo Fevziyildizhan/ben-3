@@ -1,0 +1,213 @@
+<html>
+    <head>
+        <title>WOLF DARKNESS</title>
+        <style type="text/css">
+        body{
+            background-color:none ;
+            background-image:url(kurt.jpg) ;
+            background-position:center ;
+            background-repeat:repeat-y ;
+        }
+        p{
+            font-family:Arial, Helvetica, sans-serif ;
+            font-style:normal;
+            font-size:normal ;
+            font-weight:bolder ;
+            line-height:normal ;
+        }
+        h1{
+            font-family:fantasy ;
+            font-style:normal ;
+            border-style:solid ;
+            border:yellow  dashed 2px;
+            color:red ;
+            text-align:center ;
+        }
+        h2{
+            color:yellow ;
+            text-align:left ;
+            font-family:Verdana, Geneva, Tahoma, sans-serif ;
+            font-style:normal ;
+            border:none ;
+        }
+        h3{
+            color:black ;
+            text-align:left ;
+            font-family:'Times New Roman', Times, serif ;
+            font-style:normal ;
+            border: none;
+        }
+        a:link{ font-weight: bold;}
+        a:hover{background-color: red; color: black; text-emphasis: none; }
+        a:active{ background-color:yellow;color: orange;font-style: italic}
+        
+        table{
+            background-color:yellow ;
+            font-family:fantasy ;
+            font-style:normal ;
+            font-weight:bold ;
+            border: black solid 5px;
+            
+        }
+        ul{
+            list-style-type:unset ;
+            font-family:unset ;
+            font-style:normal ;
+            width:none;
+            border: none ;
+        }
+        span{
+            font-family:inherit ;
+            font-style:italic ;
+            font-weight:bold ;
+            text-decoration:underline ;
+            color:red ;
+        }
+        div{
+            border:black dashed 5px;
+            width: none;
+            position:fixed ;
+            left:70%;
+            padding:5
+        }
+        
+    
+        ol{
+            font-family:Arial, Helvetica, sans-serif ;
+            font-style:normal ;
+            font-weight:bold ;
+        }
+        br{
+            font-weight: bold;
+        }
+        
+        </style>
+        
+    </head>
+<body>  
+    <div><img src="wolf.png"><img></div>
+    <h1>WOLF DARKNES E SPOR KİMDİR?</h1>
+    <p>Wolf Darkness E spor Takımı 2018 yılında Fevzi Paşa Yıldızhan tarafından kurulmuştur.</p>
+    <p>Paşacılar Birlik Grubunun devamıdır</p>
+    <h2>kulübümüzün Amacı?</h2>
+    <p>Her kulüp gibi kendi vizyonumuz vardır ve her daim bu vizyonda ilermeye çalışıyoruz</p>
+    <ul>
+        <li>Türk E sporcusu yetiştirmek</li>
+        <li>Yabancı sınırını indirgemek </li>   
+    </ul>
+    <h2>Kurallarımız</h2>
+    <p>Her kulubün olduğu gibi belli başlı kurallarımız mevcuttur bunlar:</p>
+    <ol>
+        <li>Kulüpte yabancı oyuncu yasak</li>
+        <li>Kulüpteki oyuncular üniverste okumak zorunda aksi taktirde ya kadro dışı kalır yada takımdan sözleşmesi feshedilir.</li>
+        <li>Oyuncular İnglizce bilmek zorunda</li>
+        <li>Altyapı oyuncuları 17 yaşında kadar hep başka kulüplere kiralanacak</li>
+        <li>altyapı 15-18 yaş aralığıdır</li>
+        <li>18 yaş altı kulübümüze başvururken Ailerden <span> izin almak zorundadır.</span></li>
+        <li>Antremana geciken oyuncu ceza alır</li>
+    </ol>
+    <h3>HANGİ BRANŞLARDA BULUNUYORUZ?</h3>
+    <p>LOL VE CSGO TAKIMLARIMIZ MEVCUTTUR. </p>
+    <h3>CSGO TAKIMI</h3>
+    <table border="50" width="50" cellpadding="5" cellspancig="5">
+        <tr>
+            <td colspan="4">WOLF DARKNESS CSGO TAKIMI</td>
+        </tr>
+        <tr>
+            <td>SAYI</td>
+            <td>ADI</td>
+            <td>NİCK</td>
+            <td>RANK</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Doğukan</td>
+            <td>wimple</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>orhun</td>
+            <td>sarius</td>
+            <td>7</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>tahsin</td>
+            <td>jake</td>
+            <td>7</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>barış</td>
+            <td>bebek</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>ahmet</td>
+            <td>ola</td>
+            <td>7</td>
+        </tr>
+    </table>
+    <br> <a href="https://www.youtube.com/feed/my_videos">OYUNCULARIMIZLA İLGLİ VİDEOLARA BURDAN ULAŞABİLİRSİNİZ</a>
+   <h3>LOL TAKIMI</h3>
+   <table border="50" width="50" cellpadding="5" cellspancig="5">
+       <tr>
+           <td colspan="4">WOLF DARKNES LOL TAKIMI</td>
+       </tr>
+       <tr>
+           <td>SAYI</td>
+           <td>ADI</td>
+           <td>NİCK</td>
+           <td>RANK</td>
+       </tr>
+       <tr>
+         <td>1</td>
+         <td>Ahmet</td>
+         <td>lulu</td>
+         <td>master</td>
+       </tr>
+       <tr>
+        <td>2</td>
+        <td>Fevzi</td>
+        <td>imparator</td>
+        <td>master</td>
+       </tr>
+       <tr>
+           <td>3</td>
+            <td>mehmet</td>
+            <td>BalıkHoplatan53</td>
+            <td>plat</td>
+       </tr>
+       <tr>
+        <td>4</td>
+        <td>ilker</td>
+        <td>spyke</td>
+        <td>master</td>
+       </tr>
+       <tr>
+          <td>5</td>
+          <td>halil</td>
+          <td>dark</td>
+          <td>elmas</td>
+       </tr>
+   </table>
+   <br> <a href="https://www.youtube.com/feed/my_videos">OYUNCULARIMIZLA İLGLİ VİDEOLARA BURDAN ULAŞABİLİRSİNİZ</a>
+<hr>
+<br> <a href="file:///C:/Users/ASUS/Desktop/Html%20dersleri/PROJE-2.html">YUKARI ÇIKABİLİRSİNİZ</a>
+<br>
+<hr>
+<p>İLETİŞİM ADRESLERİMİZ</p>
+<br>İnstagram:<a href="https://www.instagram.com/?hl=tr">BURDAN</a>
+ <br>YOUTUBE:<a href="https://www.youtube.com/feed/my_videos">BURDAN</a>
+ <br>GMAİL:<a href="mailto:gamerfevzi@gmail.com.tr">BURDAN</a>
+ <hr>
+ <form>
+   <br>YORUMLARINIZI BEKLİYORUM  <input type="textarea" name="YORUM YAP" cols="50" rows="7" maxlength="150"/>
+   <br>
+   <input type="search" name="ARA"/>
+   <input type="submit" name="gönder"/>
+ </form>
+</body>
+</html>
